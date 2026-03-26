@@ -1,14 +1,14 @@
 {
   "bot-account": {
-    "username": "PipkaBot",
+    "username": "BotBachir",
     "password": "",
     "type": "mojang"
   },
 
   "server": {
-    "ip": "Deepak_SMP.aternos.me",
-    "port": 38292 ,
-    "version": "1.12.1"
+    "ip": "onedd41.aternos.me",
+    "port": 46775 ,
+    "version": ""
   },
 
   "position": {
@@ -32,7 +32,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 25,
+      "repeat-delay": 180,
 
       "messages": [
         "/login 2345678",
